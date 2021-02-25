@@ -1,6 +1,6 @@
 # Python办公自动化
 ## [在线视频](https://www.bilibili.com/video/BV11p4y1n7Dx/)
-> [第1章 导学]()<br>
+> [第1章 导学](https://www.bilibili.com/video/BV16A411M7qM/)<br>
 > [第2章 环境的搭建](https://www.bilibili.com/video/BV1NV411q7gV)<br>
 > [第3章 xlrd+xlwt读取/写入Excel数据](https://www.bilibili.com/video/BV1BN411R7Q4)<br>
 > [第4章 xlsxwriter生成图表 ](https://www.bilibili.com/video/BV1jr4y1N7Ty)<br>
